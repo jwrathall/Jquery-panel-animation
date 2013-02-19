@@ -1,0 +1,1 @@
+Using jquery and the jquery easing plug in to animate divs on open and close.
